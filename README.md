@@ -36,3 +36,10 @@ import {Component} from "path";
 (Normal JS utility functions)
 -useState() -  supperpowerful State Variables in React
 -useEffect() - 
+
+# 2 types of Routing in a web app
+Client side Routing
+Server side Routing
+
+# useparam() Hook
+-used for fething Id
