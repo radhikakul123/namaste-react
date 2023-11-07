@@ -43,3 +43,6 @@ Server side Routing
 
 # useparam() Hook
 -used for fething Id
+
+# classbased Components
+componentDidMount() -: used for API call
