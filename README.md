@@ -46,3 +46,15 @@ Server side Routing
 
 # classbased Components
 componentDidMount() -: used for API call
+
+
+
+
+
+
+episode 5 - Hooks
+episode 7 - Router
+episode 8 - class based components
+episode 9 - custome Hooks
+          - showing online/ offline status
+          - {chunking / Codespliting / Daynamic Bundling / Lazy Loading / on demand Loding / daynamic import}
