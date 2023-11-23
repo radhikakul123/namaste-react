@@ -58,3 +58,4 @@ episode 8 - class based components
 episode 9 - custome Hooks
           - showing online/ offline status
           - {chunking / Codespliting / Daynamic Bundling / Lazy Loading / on demand Loding / daynamic import}
+episode 10 - tailwindCSS
