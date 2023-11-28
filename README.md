@@ -59,3 +59,19 @@ episode 9 - custome Hooks
           - showing online/ offline status
           - {chunking / Codespliting / Daynamic Bundling / Lazy Loading / on demand Loding / daynamic import}
 episode 10 - tailwindCSS
+
+episode 11 - Redux and Redux Toolkit 
+2 types Routing in web apps
+ - Client Side Routing
+ - Server Side Routing
+episode 12 - add remove items in to cart using redux store
+            reduxDevtools - used for debugging
+
+
+ # Redux Toolkit
+  - Install @reduxjs/toolkit and react-redux
+  - Build our store
+  - Connect our store to our app
+  - Slice (cartSlice)
+  - dispatch(action)
+  - Selector
